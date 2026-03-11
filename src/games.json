@@ -1,0 +1,110 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://way78.github.io/slope/",
+    "category": "Action",
+    "rating": 4.8,
+    "description": "A fast-paced 3D running game where you control a ball rolling down a slope."
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "thumbnail": "https://picsum.photos/seed/run3/400/300",
+    "url": "https://way78.github.io/run-3/",
+    "category": "Action",
+    "rating": 4.7,
+    "description": "Run through space tunnels and avoid falling into the void."
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/300",
+    "url": "https://way78.github.io/tunnel-rush/",
+    "category": "Action",
+    "rating": 4.6,
+    "description": "Navigate through a colorful 3D tunnel at high speeds."
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "thumbnail": "https://picsum.photos/seed/1v1/400/300",
+    "url": "https://way78.github.io/1v1-lol/",
+    "category": "Shooter",
+    "rating": 4.9,
+    "description": "A building and shooting simulator game."
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "thumbnail": "https://picsum.photos/seed/retrobowl/400/300",
+    "url": "https://way78.github.io/retro-bowl/",
+    "category": "Sports",
+    "rating": 4.9,
+    "description": "The perfect game for the armchair quarterback."
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "thumbnail": "https://picsum.photos/seed/bitlife/400/300",
+    "url": "https://way78.github.io/bitlife/",
+    "category": "Simulation",
+    "rating": 4.5,
+    "description": "A text-based life simulator where you make choices."
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "thumbnail": "https://picsum.photos/seed/drift/400/300",
+    "url": "https://way78.github.io/drift-hunters/",
+    "category": "Driving",
+    "rating": 4.7,
+    "description": "A realistic car drifting simulator."
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft Classic",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300",
+    "url": "https://way78.github.io/minecraft-classic/",
+    "category": "Adventure",
+    "rating": 4.8,
+    "description": "The classic version of Minecraft playable in your browser."
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/300",
+    "url": "https://way78.github.io/geometry-dash/",
+    "category": "Action",
+    "rating": 4.6,
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer."
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "url": "https://way78.github.io/cookie-clicker/",
+    "category": "Idle",
+    "rating": 4.4,
+    "description": "Click the cookie to make more cookies!"
+  },
+  {
+    "id": "happy-wheels",
+    "title": "Happy Wheels",
+    "thumbnail": "https://picsum.photos/seed/happy/400/300",
+    "url": "https://way78.github.io/happy-wheels/",
+    "category": "Action",
+    "rating": 4.3,
+    "description": "A physics-based obstacle course game with a dark twist."
+  },
+  {
+    "id": "temple-run-2",
+    "title": "Temple Run 2",
+    "thumbnail": "https://picsum.photos/seed/temple/400/300",
+    "url": "https://way78.github.io/temple-run-2/",
+    "category": "Action",
+    "rating": 4.5,
+    "description": "Run, jump, and slide to escape the cursed idol."
+  }
+]
